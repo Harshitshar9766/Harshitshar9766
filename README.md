@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...creating new ideas and logics.
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on .......
-- 📫 How to reach me ...www.linkedin.com/in/harshit-sharma-btm
+- 📫 How to reach me ...www.linkedin.com/in/harshxyz28
+
 - 😄 Pronouns: ...harsh
 - ⚡ Fun fact: ...L0VE-T0-C0DE
 
